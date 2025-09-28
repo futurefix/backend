@@ -12,12 +12,13 @@
   "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",
-    "cloudinary": "^2.7.0",
+    "cloudinary": "^1.37.2",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "mongodb": "^6.20.0",
     "mongoose": "^8.18.1",
     "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
     "node-cron": "^4.2.1",
     "razorpay": "^2.9.6"
   }
